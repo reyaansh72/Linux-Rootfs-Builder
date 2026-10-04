@@ -3,8 +3,6 @@ import os
 import time
 import urllib.request
 import tarfile
-import shutil
-import glob
 
 def arg_reader(name):
     for arg in sys.argv:
